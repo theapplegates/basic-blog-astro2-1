@@ -8,6 +8,6 @@ export default defineConfig({
 	experimental: {
 	  assets: true
 	 }
-	site: 'https://example.com',
+	site: 'https://astro-test-2-1.paulapplegate.com',
 	integrations: [mdx(), sitemap()],
 });
